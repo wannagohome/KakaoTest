@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'KakaoTest'
-  s.version          = '0.1.1'
-  s.summary          = 'A short description of KakaoTest.'
+  s.version          = '0.1.2'
+  s.summary          = 'just for test'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -35,6 +35,7 @@ TODO: Add long description of the pod here.
   s.dependency 'RxCocoa'
   s.dependency 'RxAlamofire'
   s.dependency 'DynamicCodable'
+  s.dependency 'KakaoSDKCommon'
   s.swift_versions = '5.0'
   
   # s.resource_bundles = {
