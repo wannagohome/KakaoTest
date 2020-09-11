@@ -21,8 +21,6 @@ import AuthenticationServices
 import KakaoSDKCommon
 import KakaoSDKAuth
 
-import RxKakaoSDKCommon
-
 let authController = AuthController.shared
 
 extension AuthController: ReactiveCompatible {}

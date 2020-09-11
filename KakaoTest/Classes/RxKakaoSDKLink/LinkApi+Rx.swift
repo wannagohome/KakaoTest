@@ -18,7 +18,6 @@ import Alamofire
 import RxAlamofire
 
 import KakaoSDKCommon
-import RxKakaoSDKCommon
 
 import KakaoSDKLink
 import KakaoSDKTemplate

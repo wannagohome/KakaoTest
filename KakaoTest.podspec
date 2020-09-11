@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'KakaoTest'
-  s.version          = '0.1.3'
+  s.version          = '0.1.4'
   s.summary          = 'just for test'
 
 # This description is used to generate tags and improve search results.
@@ -28,14 +28,14 @@ TODO: Add long description of the pod here.
   s.source           = { :git => 'https://github.com/wannagohome/KakaoTest.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '11.0'
 
   s.source_files = 'KakaoTest/Classes/**/*'
   s.dependency 'RxSwift'
   s.dependency 'RxCocoa'
   s.dependency 'RxAlamofire'
   s.dependency 'DynamicCodable'
-  s.dependency 'KakaoSDKCommon'
+  s.dependency 'KakaoSDK'
   s.swift_versions = '5.0'
   
   # s.resource_bundles = {

@@ -18,8 +18,6 @@ import Alamofire
 import RxAlamofire
 
 import KakaoSDKCommon
-import RxKakaoSDKCommon
-
 import KakaoSDKAuth
 
 extension Auth: ReactiveCompatible {}
