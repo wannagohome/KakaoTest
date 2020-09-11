@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'KakaoTest_Example' do
+  pod 'KakaoTest', :path => '../'
+
+  target 'KakaoTest_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
