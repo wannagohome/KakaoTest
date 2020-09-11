@@ -1,0 +1,6 @@
+framework module Pods_KakaoTest_Example {
+  umbrella header "Pods-KakaoTest_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

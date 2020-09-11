@@ -1,0 +1,22 @@
+{
+  "name": "KakaoTest",
+  "version": "0.1.0",
+  "summary": "A short description of KakaoTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wannagohome/KakaoTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wannagohome": "iwwuf7@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/wannagohome/KakaoTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "KakaoTest/Classes/**/*"
+}

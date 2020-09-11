@@ -1,0 +1,16 @@
+PODS:
+  - KakaoTest (0.1.0)
+
+DEPENDENCIES:
+  - KakaoTest (from `../`)
+
+EXTERNAL SOURCES:
+  KakaoTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  KakaoTest: fb8e9566761c9f242892d236c02ffc7f5f2c2561
+
+PODFILE CHECKSUM: 2c2f35ccbbe3e51d5123b933d9e830cb680bcdf2
+
+COCOAPODS: 1.9.3

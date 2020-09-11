@@ -1,0 +1,6 @@
+framework module KakaoTest {
+  umbrella header "KakaoTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
