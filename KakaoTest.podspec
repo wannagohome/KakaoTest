@@ -35,6 +35,7 @@ TODO: Add long description of the pod here.
   s.dependency 'RxCocoa'
   s.dependency 'RxAlamofire'
   s.dependency 'DynamicCodable'
+  s.swift_versions = '5.0'
   
   # s.resource_bundles = {
   #   'KakaoTest' => ['KakaoTest/Assets/*.png']
